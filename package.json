@@ -1,5 +1,5 @@
 {
-  "name": "is-between",
+  "name": "is-num-between",
   "version": "1.0.0",
   "description": "A package for determining if a number is between two numbers",
   "main": "lib/index.js",
